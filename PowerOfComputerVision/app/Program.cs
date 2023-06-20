@@ -15,9 +15,8 @@ namespace PowerOfComputerVision
 {
     class Program
     {
-        static string subscriptionKey = "be5404d931a14d9f8f79e67ff85b105b";
-        static string endpoint = "https://aicogsvcs.cognitiveservices.azure.com/";
-        // private const string image_url = "https://raw.githubusercontent.com/gottagetgit/AI102Files/main/Computer_Vision/Analyze_images_using_Computer_Vision_API/Images/Faces.jpg";
+        static string subscriptionKey = "YOURKEY";
+        static string endpoint = "YOURURL";
         private const string image_url = "https://images.unsplash.com/photo-1532635241-17e820acc59f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=815&q=80";
 
         static void Main(string[] args)
